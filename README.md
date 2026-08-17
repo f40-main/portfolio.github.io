@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=f40-main&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="(https://github-readme-stats.vercel.app/api?username=f40-main&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f40-main&layout=compact&theme=radical&hide_border=true" />
 </p>
 
