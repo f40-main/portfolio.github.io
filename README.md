@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+games+on+Roblox+%F0%9F%8E%AE;Exploring+Unreal+Engine+5+%26+Godot+4;Game+design+%2B+monetization+strategy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Contriubted+2M++Visits+%F0%9F%8E%AE;Building+Games+On+Roblox+%26+Luau+Scripter;Game+Designer" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,17 +19,16 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured
 
-| Project | Description |
+| 🚀 | Description |
 |---|---|
 | **Selene Framework** | I'm using my own roblox framework for game development scaleable |
-| **Clone Systems** |
-| **Figthing Systems** |
-| **Enemy AI** |
-| **Vehicle Systems** |
-| **UI/UX Scripting** |
-| **Data/Backend scripting** |
+| **Create Anything** | I can create what you want, i made games on almost every genre |
+| **Scalable Systems** | I'm generally write type-checked, clear and scalable structres |
+| **Fast** | Depends on game but i can generally finish in 3-5 days your entire backend |
+| **Game Designer** | I'm also game designer who knows how to get player attention |
+| **Market Analyzer** | I can understand which fantasy will work on your game. |
 | **Contributed 2M+ Visits** |
 ---
 
