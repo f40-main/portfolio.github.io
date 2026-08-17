@@ -1,4 +1,3 @@
-# portfolio.github.io
 <h1 align="center">Hi I'm f40 👋</h1>
 
 <p align="center">
@@ -29,7 +28,8 @@
 | **Fast** | Depends on game but i can generally finish in 3-5 days your entire backend |
 | **Game Designer** | I'm also game designer who knows how to get player attention |
 | **Market Analyzer** | I can understand which fantasy will work on your game. |
-| **Contributed 2M+ Visits** |
+| **Contributed 2M+ Visits** | |
+
 ---
 
 ### 🧰 Tools & Tech
@@ -48,12 +48,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="(https://github-readme-stats.vercel.app/api?username=f40-main&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f40-main&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=f40-main&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f40-main&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=f40-main&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=f40-main&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
